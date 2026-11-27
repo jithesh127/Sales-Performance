@@ -3,9 +3,10 @@
 An interactive Power BI dashboard built to explore sales performance, revenue, profit, and trends using a dataset of approximately 10,000 records.
 
 ## Dashboard Preview
-[View the dashboard PDF](Sales%20Performance%20Dashboard.pdf) · [Open the Power BI report](Sales%20Performance%20Dashboard.pbix)
 
-> The PDF contains the dashboard visuals. A standalone image preview can be added here when dashboard screenshots are exported.
+![Sales Performance Dashboard](sales-dashboard-preview.png)
+
+[View the dashboard PDF](Sales%20Performance%20Dashboard.pdf) · [Open the Power BI report](Sales%20Performance%20Dashboard.pbix)
 
 ## Business Questions
 - How do sales and profit vary across the available categories and time periods?
