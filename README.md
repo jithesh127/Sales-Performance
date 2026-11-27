@@ -1,23 +1,22 @@
-# Sales Performance Analysis
+# Sales Performance Dashboard | Power BI
 
-## Explanation
-An interactive Sales Performance Dashboard developed using Power BI to analyze sales data, track revenue, profit, and identify sales trends.
+An interactive Power BI dashboard designed to explore sales performance, revenue, profit, and trends using a dataset of approximately 10,000 records.
 
-## Dashboard Preview
+## Dashboard
+- [View the dashboard PDF](Sales%20Performance%20Dashboard.pdf)
+- [Open the Power BI file](Sales%20Performance%20Dashboard.pbix)
 
-### View Dashboard
-[Click Here to View Sales Dashboard (PDF)](Sales%20Performance%20Dashboard.pdf)
+## Project Focus
+The dashboard brings sales measures and trends into a visual format to support business performance review and data-driven discussions.
 
-### Download Power BI File
-[Download PBIX File](Sales%20Performance%20Dashboard.pbix)
+## Tools
+Power BI · Excel
 
 ## Dataset
-Sales data containing 10K records.
+Sales dataset containing approximately 10K records.
 
-## Tools Used
-- Power BI
-- Excel
-- Data Analytics
+## Explore
+Review the PDF for dashboard visuals and open the PBIX file in Power BI Desktop to inspect the report.
 
-## Conclusion
-This project provides meaningful business insights through data visualization and supports better data-driven decision-making.
+---
+Created by **Jithesh D** · [GitHub](https://github.com/jithesh127)
